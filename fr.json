@@ -73,11 +73,11 @@
 	}],
 
 	"flash": [{
-		"login_contact_admin": "Impossible de se connecter à ce compte ! Contacter un Administrateur",
-		"no_account": "Aucun compte existe !",
+		"login_contact_admin": "Impossible de se connecter à ce compte ! Contactez un Administrateur",
+		"no_account": "Aucun compte n'existe !",
 		"error": "Une erreur est survenue avec {param} !",
 		"captcha": "Veuillez remplir le captcha !",
-		"confirm_email": "Veuillez vérifier vos email, pour confirmer le compte !",
+		"confirm_email": "Veuillez vérifier vos emails pour confirmer le compte !",
 		"wrong_password": "Mauvais mot de passe !",
 		"link_already": "Le compte {param} est déjà lié avec un autre compte !",
 		"account_not_verifed": "Votre compte {param} n'est pas vérifié !",
@@ -88,20 +88,20 @@
 		"email_or_pseudo_already": "L'email ou le pseudo existe déjà !",
 	}],
 	"settings": [{
-		"riot_error": "Aucun code trouver ..., redémarrer le luncheur ou regarder le tuto <code>{error}</code>",
-		"code_error": "Le code obtenu est {code_riot} le code attendu était :{code_session}. En cas de problème, veuillez redémarrer le luncheur !",
+		"riot_error": "Aucun code trouvé ..., redémarrez le launcher ou regardez le tuto <code>{error}</code>",
+		"code_error": "Le code obtenu est {code_riot} le code attendu était :{code_session}. En cas de problème, veuillez redémarrer le launcher !",
 		"bad_password": "Le mot de passe ne correspond pas ou est trop court !",
-		"link": "Lié a votre {param}",
+		"link": "Lier à votre {param}",
 		"unlink": "Délié a votre {parm} ({info})",
 		"description": "Description",
 		"old_password": "Ancien MDP",
-		"new_password": "Nouveaux MDP",
+		"new_password": "Nouveau MDP",
 		"confirm_password": "Confirmation du MDP",
 		"country": "Pays",
 		"gender": "Sexe",
-		"women": "Femmen",
+		"women": "Femme",
 		"man": "Homme",
-		"birthday": "Date de naissance ( Privé )",
+		"birthday": "Date de naissance (Privé)",
 		"lol_name": "Pseudo LOL",
 		"email": "Adresse email",
 		"edit_profil": "Modifier mon profil",
@@ -128,11 +128,11 @@
 		"password_lost": "Mot de passe oublié",
 		"login": "Connexion",
 		"register": "Inscription",
-		"not_link": "Compte {link} non lier !",
+		"not_link": "Compte {link} non lié !",
 		"unranked": "Unranked ...",
 		"waiting_code": "En attente des codes ...",
 		"waiting_win": "Victoire en attente ...",
-		"lose": "Éliminé au {nb_match} matchs",
+		"lose": "Éliminé au {nb_match} match(s)",
 		"copy_code": "Copier le code",
 		"start": "En cours ...",
 		"winning": "Gagnant: {team}",
@@ -141,7 +141,7 @@
 		"not_ready": "Je ne suis plus prêt !",
 		"delete": "Supprimer",
 		"edit": "Modifier",
-		"reactivate": "Reactiver"
+		"reactivate": "Réactiver"
 		}
 	],
 
@@ -152,7 +152,7 @@
 		"launch_date": "Date du lancement",
 		"required": "Requis",
 		"participate": "Participer",
-		"nb_registered_player": "Nombre de joueur inscrits",
+		"nb_registered_player": "Nombre de joueurs inscrits",
 		"status": "Statut",
 		"my_team": "Ma team: {my_team}",
 		"opponent": "Adversaire",
@@ -169,7 +169,7 @@
 		"state": "État",
 		"registered": "Inscrit",
 		"confirm": "Confirmer",
-		"discord_tips": "Information: Lier votre discord à L2P et rejoins le {url_discord} permet d'être en vocal avec vos mates",
+		"discord_tips": "Information: Liez votre discord à L2P et rejoins le {url_discord} permet d'être en vocal avec vos mates",
 		"win": "Vainqueur"
 		}
 	],
@@ -182,11 +182,11 @@
 		"tournaments": "Tournoi",
 		"profil": "Profil",
 		"settings": "Settings",
-		"logout": "Décconnexion"
+		"logout": "Déconnexion"
 
 	}],
 	"footer": [{
-		"online": "Il y a {count} personnes en lignes !",
+		"online": "Il y a {count} personnes en ligne !",
 		"credit": "Fait avec amour <i class=\"fa fa-heart text-pulse\"></i> par <a class=\"font-w600\" href=\"https://twitter.com/florianmifsud\" target=\"_blank\">Florian Mifsud</a>",
 
 	}],
